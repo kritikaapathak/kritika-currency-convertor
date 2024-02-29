@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "An npm Package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritikaapathak/kritika-currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Kritika Pathak",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kritikaapathak/kritika-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/kritikaapathak/kritika-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
